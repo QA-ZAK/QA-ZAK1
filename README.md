@@ -35,6 +35,10 @@ git init
 > Это цитата.
 
 Примеры элементов разметки mermaid-схем:
+
+синтаксис https://mermaid.js.org/syntax/flowchart.html
+
+
 тренажет по схемам https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVjk2Lg0AMhv9KyGkL9Q94WKi620thC-3N8RA0doY6H4yRUtT_vmN72c0p5Hnel8zY-o4xx37wj1ZTFLhWykGaQ13qaEaxNDaQZZ_LkQWsd_xcoPg4ehi1D8G42-7tF5sE5XzaNAbRxt3XNypf-R_HC1T1iYL40Pwl14df4Ks2Z53q_xMdOaW-657ynrKWIpQUXwru0XK0ZLr0_rxdFIpmywrztHbc0zSIQuXWpNIk_vJ0LeYSJ97jFDoSrgzdIllM3cPI6y9UJlb2
 
 
